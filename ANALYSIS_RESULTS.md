@@ -3,7 +3,7 @@
 <br/>
 <br/>
 
-#### What was the last status of applicants?
+#### What was the last status of applicants in the hiring process?
 #
 ![](https://github.com/mrkjhsn/South-Bend-Police-Department-Recruitment/blob/master/visualizations/applicant%20status.png)
 <br/>
