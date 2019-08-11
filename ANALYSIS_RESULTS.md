@@ -9,6 +9,20 @@
 <br/>
 <br/>
 
+#### What is the gender of applicants to the police force?
+#
+![](https://github.com/mrkjhsn/South-Bend-Police-Department-Recruitment/blob/master/visualizations/applicant%20gender.png)
+<br/>
+<br/>
+<br/>
+
+#### What method are applicants using to apply?
+#
+![](https://github.com/mrkjhsn/South-Bend-Police-Department-Recruitment/blob/master/visualizations/applicant%20apply%20method.png)
+<br/>
+<br/>
+<br/>
+
 #### What was the last status of applicants in the hiring process?
 #
 ![](https://github.com/mrkjhsn/South-Bend-Police-Department-Recruitment/blob/master/visualizations/applicant%20status.png)
