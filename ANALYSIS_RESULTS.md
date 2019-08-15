@@ -23,9 +23,6 @@ What method are applicants using to apply?
 <br/>
 <br/>
 <br/>
-
-
-
 Within the top six methods of advertisement, how has the count of applicants from each method changed over time?
 #
 ![](https://github.com/mrkjhsn/South-Bend-Police-Department-Recruitment/blob/master/visualizations/add_method_over_time.png)
@@ -39,24 +36,12 @@ How has the number of applicants from each ethnicity changed based on methods of
 <br/>
 <br/>
 <br/>
-
-
-
-
-
-
-#### What was the last status of applicants in the hiring process for all ethnicities?
+What was the last status of applicants in the hiring process for all ethnicities?  How has this changed over time?
 #
-![](https://github.com/mrkjhsn/South-Bend-Police-Department-Recruitment/blob/master/visualizations/applicant%20status.png)
+![](https://github.com/mrkjhsn/South-Bend-Police-Department-Recruitment/blob/master/visualizations/applicant_status_by_ethnicity_over_time.png)
 <br/>
 <br/>
 <br/>
 
-#### Within the top 4 last statuses, how do the top 3 ethnicities differ?
-#
-![](https://github.com/mrkjhsn/South-Bend-Police-Department-Recruitment/blob/master/visualizations/applicant_status_by_ethnicity.png)
-<br/>
-<br/>
-<br/>
 
 
