@@ -1,6 +1,5 @@
 [Currently](https://www.southbendtribune.com/news/publicsafety/south-bend-police-see-successful-year-of-recruiting-but-still/article_cc8a29aa-9a31-5bf7-887e-5cfc9a1a2465.html) South Bend IN is approximately 28% black.
 <br/>
-<br/>
 ![](https://github.com/mrkjhsn/South-Bend-Police-Department-Recruitment/blob/master/visualizations/south_bend_ethnic_composition.png)
 However black officers only make up about 5% of it's police force.
 ![](https://github.com/mrkjhsn/South-Bend-Police-Department-Recruitment/blob/master/visualizations/south_bend_pd_composition.png)
