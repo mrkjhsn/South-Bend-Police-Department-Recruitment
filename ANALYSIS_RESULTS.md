@@ -29,7 +29,7 @@ Within the top six methods of advertisement, how has the count of applicants fro
 <br/>
 <br/>
 <br/>
-How has the number of applicants from each ethnicity changed based on methods of advertisement over time?
+How has the number of applicants from each ethnicity changed based on methods of advertisement over time?  All ethnicities have moved in a similar pattern based on the channels of advertisement.  This seems to confirm the lack of targed advertisment.  If targeting and recruiting minorities was a priority, shouldn't the volumes of candidates applying through specific targeted channels stand out?  
 #
 ![](https://github.com/mrkjhsn/South-Bend-Police-Department-Recruitment/blob/master/visualizations/add_method_by_ethnicity_over_time.png
 )
