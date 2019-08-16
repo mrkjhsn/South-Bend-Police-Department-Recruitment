@@ -17,13 +17,13 @@ Within the top three ethnicities, how has the count changed over time?
 <br/>
 <br/>
 <br/>
-What method are applicants using to apply?  It seems the department is being proactive at targeting younger people by allowing the application to me easily accessed mobile phones.
+What method are applicants using to apply?  It seems the department is being proactive at targeting younger people by allowing the application to be more easily accessed through mobile phones.
 #
 ![](https://github.com/mrkjhsn/South-Bend-Police-Department-Recruitment/blob/master/visualizations/applicant%20apply%20method.png)
 <br/>
 <br/>
 <br/>
-Within the top six methods of advertisement, how has the count of applicants from each method changed over time?
+Within the top six methods of advertisement, how has the count of applicants from each method changed over time?  It seems the department is making heavy use of targeted advertisement through online forums, chanels that can easily focus on specific minorities.
 #
 ![](https://github.com/mrkjhsn/South-Bend-Police-Department-Recruitment/blob/master/visualizations/add_method_over_time.png)
 <br/>
