@@ -1,8 +1,8 @@
-[Currently](https://www.southbendtribune.com/news/publicsafety/south-bend-police-see-successful-year-of-recruiting-but-still/article_cc8a29aa-9a31-5bf7-887e-5cfc9a1a2465.html) South Bend IN is approximately 28% black.
+[Currently](https://www.southbendtribune.com/news/publicsafety/south-bend-police-see-successful-year-of-recruiting-but-still/article_cc8a29aa-9a31-5bf7-887e-5cfc9a1a2465.html) South Bend IN is approximately 28% black.  However black officers only make up about 5% of it's police force.
 <br/>
-![](https://github.com/mrkjhsn/South-Bend-Police-Department-Recruitment/blob/master/visualizations/south_bend_ethnic_composition.png)
-However black officers only make up about 5% of it's police force.
-![](https://github.com/mrkjhsn/South-Bend-Police-Department-Recruitment/blob/master/visualizations/south_bend_pd_composition.png)
+<br/>
+<br/>
+![](https://github.com/mrkjhsn/South-Bend-Police-Department-Recruitment/blob/master/visualizations/south_bend_city_vs_pd_composition.png)
 <br/>
 <br/>
 What is the ethnicity of applicants to the police force?
@@ -23,7 +23,7 @@ What method are applicants using to apply?  It seems the department is being pro
 <br/>
 <br/>
 <br/>
-Within the top six methods of advertisement, how has the count of applicants from each method changed over time?  It seems the department is making heavy use of targeted advertisement through online forums, chanels that can easily focus on specific minorities.
+Within the top six methods of advertisement, how has the count of applicants from each method changed over time?  It seems the department is making heavy use of targeted advertisement through online forums, channels that can easily focus on specific minorities.
 #
 ![](https://github.com/mrkjhsn/South-Bend-Police-Department-Recruitment/blob/master/visualizations/add_method_over_time.png)
 <br/>
