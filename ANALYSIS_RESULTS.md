@@ -38,7 +38,7 @@ How has the number of applicants from each ethnicity changed based on methods of
 <br/>
 What was the last status of applicants in the hiring process for all ethnicities?  How has this changed over time?
 #
-![](https://github.com/mrkjhsn/South-Bend-Police-Department-Recruitment/blob/master/visualizations/applicant_status_by_ethnicity_over_time.png)
+![](https://github.com/mrkjhsn/South-Bend-Police-Department-Recruitment/blob/master/visualizations/applicant_status_by_ethnicity_percent_count.png)
 <br/>
 <br/>
 <br/>
