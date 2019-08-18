@@ -2,13 +2,12 @@ During his tenure as Mayor of South Bend IN, Pete Buttigieg has made an effort t
 
 [Currently](https://www.southbendtribune.com/news/publicsafety/south-bend-police-see-successful-year-of-recruiting-but-still/article_cc8a29aa-9a31-5bf7-887e-5cfc9a1a2465.html) South Bend IN is approximately 28% black.  However black officers only make up about 5% of it's police force.
 
+![](https://github.com/mrkjhsn/South-Bend-Police-Department-Recruitment/blob/master/visualizations/south_bend_city_vs_pd_composition.png)
+
 The city of South Bend IN publishes a [dataset](https://data-southbend.opendata.arcgis.com/datasets/sbpd-recruitment-data) detailing the number of recruits that have applied, including ethnicities of the applicants and which stages of the recruiting process have contributed to applicants dropping out of the recruiting process.  The dataset includes recruiting cycles from 2017 - 2019.  
 
 I wanted to look into the data to better understand the efforts that have been made in this area.  Does it appear as if the South Bend Police Department has made a good faith effort to promote diversity?  Additionally, promoting diversity within police forces across the nation is a problem that many cities struggle with.  Does the recruiting data from South Bend IN shed any light on recruiting practices that other cities might learn from?
 
-![](https://github.com/mrkjhsn/South-Bend-Police-Department-Recruitment/blob/master/visualizations/south_bend_city_vs_pd_composition.png)
-<br/>
-<br/>
 What is the ethnicity of applicants to the police force?  (Note:  its unclear to me why such a large quantity of applicants don't provide ethnicity.  Options that could have been provided on the application include "Two or More Races (Not Hispanic or Latino)" and "Prefer not to answer".) It's possible that these may be applicants that are half serious about the application process.
 #
 ![](https://github.com/mrkjhsn/South-Bend-Police-Department-Recruitment/blob/master/visualizations/ethnicity%20of%20applicant.png)
