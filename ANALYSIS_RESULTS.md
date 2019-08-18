@@ -44,7 +44,5 @@ What was the last status of applicants in the hiring process for all ethnicities
 ![](https://github.com/mrkjhsn/South-Bend-Police-Department-Recruitment/blob/master/visualizations/applicant_status_by_ethnicity_percent_count.png)
 <br/>
 <br/>
-<br/>
-
-
+### Summary: Although some efforts have been made to attract minorities, I see little change in the main two forces that prevent applicants from moving beyond the first two steps of the recruitment process.  Perhaps recruits don't show up to the physical because they are unsure of the physical fitness exercises they will be tested on.  The city has combated this by providing a youtube video on their recruiting website detailing the expectations.  Perhaps the city can provide physical fitness classes to applicants months in advance of the fitness test.  This might give candidates the confidence to show up to the physical test feeling more confident that they will pass.  Overall, I'm surprised I don't see more evidence that the South Bend Police Department hasn't taken more steps to get candidates farther through the recruiting process.
 
