@@ -1,4 +1,4 @@
-During his tenure as Mayor of South Bend IN, Pete Buttigieg has made an effort to increase the diversity of the South Bend Police Department.  During the first Democratic Presidential debate(June 27, 2019) of the 2020 election Mayor Pete admitted that he has failed at this effort.
+During his tenure as Mayor of South Bend IN, Pete Buttigieg has made an effort to increase the diversity of the South Bend Police Department.  During the first Democratic Presidential debate(June 27, 2019) of the 2020 election Mayor Pete [admitted](https://youtu.be/ibV7dtDK6rQ) that he has failed at this effort.
 
 [Currently](https://www.southbendtribune.com/news/publicsafety/south-bend-police-see-successful-year-of-recruiting-but-still/article_cc8a29aa-9a31-5bf7-887e-5cfc9a1a2465.html) South Bend IN is approximately 28% black.  However black officers only make up about 5% of it's police force.
 
