@@ -16,7 +16,6 @@ What is the ethnicity of applicants to the police force?  (Note:  its unclear to
 <br/>
 Within the top three ethnicities, how has the count changed over time?  Based on the chart below, the percent of applicants from the top three ethnicities has tracked very constant.  By a few percentage points slightly more black applicants have applied each year since 2017.  Between 2018 and 2019, a slightly smaller percent of white candidates applied.  Hispanic applicants have remained roughly the same. 
 #
-![](https://github.com/mrkjhsn/South-Bend-Police-Department-Recruitment/blob/master/visualizations/ethnicity_count%26percent_change.png)
 ![](https://github.com/mrkjhsn/South-Bend-Police-Department-Recruitment/blob/master/visualizations/ethnicity_count%26percent_change1.png)
 <br/>
 <br/>
