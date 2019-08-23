@@ -1,6 +1,6 @@
-During his tenure as Mayor of South Bend IN, Pete Buttigieg has made an effort to increase the diversity of the South Bend Police Department.  During the first Democratic Presidential debate(June 27, 2019) of the 2020 election Mayor Pete [admitted](https://youtu.be/ibV7dtDK6rQ) that he has failed at this effort.
+#### During his tenure as Mayor of South Bend IN, Pete Buttigieg has made an effort to increase the diversity of the South Bend Police Department.  During the first Democratic Presidential debate(June 27, 2019) of the 2020 election Mayor Pete [admitted](https://youtu.be/ibV7dtDK6rQ) that he has failed at this effort.
 
-[Currently](https://www.southbendtribune.com/news/publicsafety/south-bend-police-see-successful-year-of-recruiting-but-still/article_cc8a29aa-9a31-5bf7-887e-5cfc9a1a2465.html) South Bend IN is approximately 28% black.  However black officers only make up about 5% of it's police force.
+Currently, South Bend IN is approximately [28%](https://datausa.io/profile/geo/south-bend-in/) black.  However black officers only make up about [5%](https://www.southbendtribune.com/news/publicsafety/south-bend-police-see-successful-year-of-recruiting-but-still/article_cc8a29aa-9a31-5bf7-887e-5cfc9a1a2465.html) of it's police force.
 
 ![](https://github.com/mrkjhsn/South-Bend-Police-Department-Recruitment/blob/master/visualizations/south_bend_city_vs_pd_composition.png)
 
@@ -16,7 +16,7 @@ What is the ethnicity of applicants to the police force?  (Note:  its unclear to
 <br/>
 Within the top three ethnicities, how has the count changed over time?  Based on the chart below, the percent of applicants from the top three ethnicities has tracked very constant.  By a few percentage points slightly more black applicants have applied each year since 2017.  Between 2018 and 2019, a slightly smaller percent of white candidates applied.  Hispanic applicants have remained roughly the same. 
 #
-![](https://github.com/mrkjhsn/South-Bend-Police-Department-Recruitment/blob/master/visualizations/ethnicity_count%26percent_change.png)
+![](https://github.com/mrkjhsn/South-Bend-Police-Department-Recruitment/blob/master/visualizations/ethnicity_count%26percent_change1.png)
 <br/>
 <br/>
 <br/>
@@ -44,5 +44,9 @@ What was the last status of applicants in the hiring process for all ethnicities
 ![](https://github.com/mrkjhsn/South-Bend-Police-Department-Recruitment/blob/master/visualizations/applicant_status_by_ethnicity_percent_count.png)
 <br/>
 <br/>
-#### Summary: Although some efforts have been made to attract minorities, I see little change in the main two forces that prevent applicants from moving beyond the first two steps of the recruitment process.  Perhaps recruits don't show up to the physical because they are unsure of the physical fitness exercises they will be tested on.  The city has combated this by providing a youtube video on their recruiting website detailing the expectations.  Perhaps the city can provide physical fitness classes to applicants months in advance of the fitness test.  This might give candidates the confidence to show up to the physical test feeling more confident that they will pass.  Overall, I'm surprised I don't see more evidence that the South Bend Police Department hasn't taken more steps to get candidates farther through the recruiting process.
+#### Summary: Although some efforts have been made to attract minorities(as evidenced by a light increase in the percent of black applicants), there is little change in the main two forces that prevent applicants from moving beyond the first two steps of the recruitment process.
+
+1. The city could shorten the application to make it easier to complete.  They could perform analysis to determine which areas of the application applicants don't get past.  Could those things be left off and addressed at a later time, say when they show up for the physical?
+
+1. It's possible recruits don't show up to the physical because they are unsure of the physical fitness exercises they will be tested on.  The city has combated this by providing a youtube video on their recruiting website detailing the expectations.  But the city could provide physical fitness classes to applicants months in advance of the fitness test.  This might give candidates the confidence to show up to the physical test feeling more confident that they will pass.
 
