@@ -17,6 +17,7 @@ What is the ethnicity of applicants to the police force?  (Note:  its unclear to
 Within the top three ethnicities, how has the count changed over time?  Based on the chart below, the percent of applicants from the top three ethnicities has tracked very constant.  By a few percentage points slightly more black applicants have applied each year since 2017.  Between 2018 and 2019, a slightly smaller percent of white candidates applied.  Hispanic applicants have remained roughly the same. 
 #
 ![](https://github.com/mrkjhsn/South-Bend-Police-Department-Recruitment/blob/master/visualizations/ethnicity_count%26percent_change.png)
+![](https://github.com/mrkjhsn/South-Bend-Police-Department-Recruitment/blob/master/visualizations/ethnicity_count%26percent_change1.png)
 <br/>
 <br/>
 <br/>
@@ -44,5 +45,9 @@ What was the last status of applicants in the hiring process for all ethnicities
 ![](https://github.com/mrkjhsn/South-Bend-Police-Department-Recruitment/blob/master/visualizations/applicant_status_by_ethnicity_percent_count.png)
 <br/>
 <br/>
-#### Summary: Although some efforts have been made to attract minorities, I see little change in the main two forces that prevent applicants from moving beyond the first two steps of the recruitment process.  Perhaps recruits don't show up to the physical because they are unsure of the physical fitness exercises they will be tested on.  The city has combated this by providing a youtube video on their recruiting website detailing the expectations.  Perhaps the city can provide physical fitness classes to applicants months in advance of the fitness test.  This might give candidates the confidence to show up to the physical test feeling more confident that they will pass.  Overall, I'm surprised I don't see more evidence that the South Bend Police Department hasn't taken more steps to get candidates farther through the recruiting process.
+#### Summary: Although some efforts have been made to attract minorities(as evidenced by a light increase in the percent of black applicants), there is little change in the main two forces that prevent applicants from moving beyond the first two steps of the recruitment process.
+
+1. The city could shorten the application to make it easier to complete.  They could perform analysis to determine which areas of the application applicants don't get past.  Could those things be left off and addressed at a later time, say when they show up for the physical?
+
+1. It's possible recruits don't show up to the physical because they are unsure of the physical fitness exercises they will be tested on.  The city has combated this by providing a youtube video on their recruiting website detailing the expectations.  But the city could provide physical fitness classes to applicants months in advance of the fitness test.  This might give candidates the confidence to show up to the physical test feeling more confident that they will pass.
 
